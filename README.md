@@ -29,14 +29,14 @@ python pair.py list my_ip_goes_here
 
 Pair speakers:
 ```
-python pair.py pair ip_to_master ip_to_slave
+python pair.py pair ip_of_master ip_of_slave
 ```
 
 The **master** will act as the **left** speaker.
 
 Unpair speakers:
 ```
-python pair.py unpair ip_to_master
+python pair.py unpair ip_of_master
 ```
 
 Depending on your Python installation, you might have to change `python` to `python3`.
